@@ -147,7 +147,6 @@ public class GameBoardPanel extends JPanel implements ActionListener {
 		g2.setFont(new Font("Comic Sans MS", Font.BOLD, 35));
 		g2.drawString("Snake2D Game", 390, 50);
 		g2.setColor(Color.ORANGE);
-		g2.drawString("mtala3t", 450, 100);
 
 		g2.setFont(new Font("Comic Sans MS", Font.PLAIN, 15));
 		g2.setColor(Color.WHITE);
